@@ -1,3 +1,5 @@
+// Exercícios COM JAVASCRIPT – Desenvolver com Pilha
+
 //Histórico de Navegação Simples:
 //Utilize uma pilha para armazenar o histórico de navegação de um usuário.
 //Implemente os métodos de empilhar e desempilhar os endereços acessados.

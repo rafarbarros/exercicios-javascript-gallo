@@ -1,0 +1,17 @@
+body {
+    min-height: 100vh;
+    background-color: #000000;
+    color: #dd8f00;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    line-height: 1.5;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+ 
